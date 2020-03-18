@@ -1,17 +1,17 @@
-  nav#main-navbar ul {
+  #main-navbar ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
-    overflow: hidden;
+	overflow: hidden;
   }
 
-  nav#main-navbar ul li {
+  #main-navbar ul li {
     float: center;
 	margin:  0 15px;
 
   }
 
-  nav#main-navbar ul li a {
+  #main-navbar ul li a {
     display: block
 	background-color: red;
 	color: #fff;
@@ -23,7 +23,9 @@
 	border-radius: 4px;
   }
   
-  nav#main-navbar ul li a:hover {
+  #main-navbar ul li a:hover {
     background-color: #800
 	color:  yellow;
 	background-color: 20px
+	}
+	
