@@ -1,0 +1,29 @@
+  nav#main-navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+  }
+
+  nav#main-navbar ul li {
+    float: center;
+	margin:  0 15px;
+
+  }
+
+  nav#main-navbar ul li a {
+    display: block
+	background-color: red;
+	color: #fff;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	width: 100px;
+	padding: 10px 0px 8px 0px;
+	border-radius: 4px;
+  }
+  
+  nav#main-navbar ul li a:hover {
+    background-color: #800
+	color:  yellow;
+	background-color: 20px
