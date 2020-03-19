@@ -1,5 +1,6 @@
   h1 {
-	color: red
+	color: red;
+	text-align: center;
   }	  
 
   nav#main-navbar {
@@ -8,26 +9,38 @@
 
   nav#main-navbar {
 	  text-align: center;
+	 }
+
+  #navbar-container {
+	  float: left;
+	  width: 100%;
+	  position: relative;
+	  text-align: center;
   }
   
   nav#main-navbar {
 	  overflow: hidden;
   }
   
-  nav#main-navbar {
+  nav#main-navbar ul {
 	  list-style-type: none;
 	  margin: 0;
 	  padding: 0;
-	  display: in-line block;
+	  display: inline-block;
 	  vertical-align: top;
   }
-  
+    
   nav#main-navbar ul li {
-	  float: center;
+	  float: left;
+  }
+  
+  nav#main-navbar ul li a:hover {
+	  background-color:  #888888;
+	  text-decoration: underline;
   }
   
   nav#main-navbar ul li a {
-	  display: in-line block;
+	  display: inline-block;
 	  padding: 10px 20px;
 	  color: #fff;
 	  text-decoration: none;
