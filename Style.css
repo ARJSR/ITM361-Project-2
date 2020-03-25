@@ -55,6 +55,15 @@
 	 
   }
   
+  .content {
+	  h3, h4 
+		  font-family: 'Oxygen', cursive;
+		  font-weight: 400;
+		  
+	  p, ul 
+		  font-family: 'Sen', serif;
+		    }
+  
   #mycontainer {
     background-color: #888888;
   }
