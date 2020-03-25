@@ -3,11 +3,11 @@
 	text-align: center;
   }	  
 
-  nav#main-navbar {
+  #main-navbar {
 	background-color: red;
   }
 
-  nav#main-navbar {
+  #main-navbar {
 	  text-align: center;
 	 }
 
@@ -18,11 +18,11 @@
 	  text-align: center;
   }
   
-  nav#main-navbar {
+  #main-navbar {
 	  overflow: hidden;
   }
   
-  nav#main-navbar ul {
+  #main-navbar ul {
 	  list-style-type: none;
 	  margin: 0;
 	  padding: 0;
@@ -30,22 +30,23 @@
 	  vertical-align: top;
   }
     
-  nav#main-navbar ul li {
+  #main-navbar ul li {
 	  float: left;
   }
   
-  nav#main-navbar ul li a:hover {
+  #main-navbar ul li a:hover {
 	  background-color:  #888888;
 	  text-decoration: underline;
   }
   
-  nav#main-navbar ul li a {
+  #main-navbar ul li a {
 	  display: inline-block;
 	  padding: 10px 20px;
 	  color: #fff;
 	  text-decoration: none;
   }
-  nav#main-navbar float {
+  
+  #main-navbar float {
   }
 
   #border {
@@ -102,7 +103,7 @@
   #shirtmain {
 	  background-color: gray;
 	  width: 500px;
-	  height: 300px;
+	  height: 375px;
 	  padding: 20px;
 	  margin: 10px;
 	  float: left;
