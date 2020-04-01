@@ -149,6 +149,10 @@
 	  top: -1em;
   }
   
+  #video.para2 {
+	  bottom: -4px;
+  }
+  
   #video {
 	  float: right;
 	  top: -10em;
