@@ -85,6 +85,12 @@
 	  position: relative;
   }
   
+  #main-para.body h2, h3, p {
+	  	    font-family: 'Anton', serif;
+			font-weight: 600;
+			position: relative;
+  }
+  
   #officers {
 	  float: right;
   }
